@@ -1,0 +1,20 @@
+[[main]]
+identifier = 'home'
+name = 'Home'
+pre = "<i class='icon icon-home'></i>"
+url = '/'
+weight = 1
+
+[[main]]
+identifier = 'content'
+name = 'Documentation'
+pre = "<i class='icon icon-book'></i>"
+url = '/content/en/page/index'
+weight = 2
+
+[[main]]
+identifier = 'dza'
+name = 'dza-local'
+pre = "<i class='icon icon-book'></i>"
+url = '/content/en/page/second_index'
+weight = 2
