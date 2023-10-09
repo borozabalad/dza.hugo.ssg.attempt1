@@ -1,5 +1,5 @@
 title = 'Docura'
-baseURL = 'https://docura.github.io/'
+baseURL = 'https://diegoazabalab.github.io/'
 
 defaultContentLanguage = 'en'
 languageCode = 'en-us'
