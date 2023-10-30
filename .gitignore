@@ -1,0 +1,32 @@
+# Hugo generated files
+# /public/  (Uncomment this if you build your site elsewhere and deploy just the output)
+
+/resources/_gen/
+/hugo_stats.json
+
+# Dependency directories (Node.js packages, etc.)
+/node_modules/
+
+# Operating system and editor folders/files
+.DS_Store
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Temporary files created by editors
+*.swp
+*.swo
+*.swn
+*.bak
+*.tmp
+*.temp
+
+# Ignore user-specific Hugo config (these might contain sensitive or local information)
+/config.yaml
+/config.toml
+/config.json
+
+# Ignore environment local files
+.env
+.env.local
+.hugo_build.lock
