@@ -5,17 +5,6 @@
     <link>https://diegoazabalab.github.io/</link>
     <description>Recent content on Docura</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
-    <lastBuildDate>Mon, 09 Oct 2023 23:13:49 +1000</lastBuildDate><atom:link href="https://diegoazabalab.github.io/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>About</title>
-      <link>https://diegoazabalab.github.io/page/about/</link>
-      <pubDate>Mon, 09 Oct 2023 23:13:49 +1000</pubDate>
-      
-      <guid>https://diegoazabalab.github.io/page/about/</guid>
-      <description>Title test SubTitle test end&amp;hellip; normal test.
-Look at the right top side: there is a Navigation section /n /n /n /n /n</description>
-    </item>
-    
+    <language>en</language><atom:link href="https://diegoazabalab.github.io/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

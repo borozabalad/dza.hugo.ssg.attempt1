@@ -2,16 +2,9 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://diegoazabalab.github.io/page/about/</loc>
-    <lastmod>2023-10-09T23:44:47+10:00</lastmod>
+    <loc>https://diegoazabalab.github.io/categories/</loc>
   </url><url>
     <loc>https://diegoazabalab.github.io/</loc>
-    <lastmod>2023-10-09T23:44:47+10:00</lastmod>
-  </url><url>
-    <loc>https://diegoazabalab.github.io/page/</loc>
-    <lastmod>2023-10-09T23:44:47+10:00</lastmod>
-  </url><url>
-    <loc>https://diegoazabalab.github.io/categories/</loc>
   </url><url>
     <loc>https://diegoazabalab.github.io/tags/</loc>
   </url>
