@@ -1,5 +1,5 @@
-title = 'Docura'
-baseURL = 'https://diegoazabalab.github.io/'
+title = 'DZa test - 30102023'
+baseURL = "http://localhost:1313/"
 
 defaultContentLanguage = 'en'
 languageCode = 'en-us'
